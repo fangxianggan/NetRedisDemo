@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationNetRedisDemo"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationNetRedisDemo.Tests", "WebApplicationNetRedisDemo.Tests\WebApplicationNetRedisDemo.Tests.csproj", "{BBAA49BA-C9CF-4BC1-80D3-7C5F058CC54D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetRedisUtil", "NetRedisUtil\NetRedisUtil.csproj", "{FA45B661-A2F1-4A68-9F73-69AC678A4C41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetRedisConsoleApp", "NetRedisConsoleApp\NetRedisConsoleApp.csproj", "{BAB052D5-1AFC-44C8-9207-9C4F56745ED2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{BBAA49BA-C9CF-4BC1-80D3-7C5F058CC54D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBAA49BA-C9CF-4BC1-80D3-7C5F058CC54D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBAA49BA-C9CF-4BC1-80D3-7C5F058CC54D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA45B661-A2F1-4A68-9F73-69AC678A4C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA45B661-A2F1-4A68-9F73-69AC678A4C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA45B661-A2F1-4A68-9F73-69AC678A4C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA45B661-A2F1-4A68-9F73-69AC678A4C41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB052D5-1AFC-44C8-9207-9C4F56745ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB052D5-1AFC-44C8-9207-9C4F56745ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB052D5-1AFC-44C8-9207-9C4F56745ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB052D5-1AFC-44C8-9207-9C4F56745ED2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
